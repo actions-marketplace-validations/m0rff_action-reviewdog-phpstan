@@ -19,7 +19,7 @@ inputs:
     default: 'github-pr-check'
 
   fail_on_error:
-    description: 'Fail on error.''
+    description: 'Fail on error.'
     default: 'false'
 
   args:
